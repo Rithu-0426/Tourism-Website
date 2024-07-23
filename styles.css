@@ -1,0 +1,78 @@
+.container{
+    background-image: url("https://img.freepik.com/free-photo/beautiful-natur…pe-with-black-sandy-beach-ocean_23-2151380422.jpg");
+    background-size: cover;
+    height: 120vh;
+    width: 90vw;
+}
+.firstcard{
+    text-align: center;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 5px;
+    background-color: white;
+
+}
+.head{
+    font-family: "Roboto";
+    font-size: 60px;
+    color: black;
+    padding: 16px;
+    font-weight: bold;
+}
+.para{
+    font-family: "Roboto";
+    font-size: 26px;
+    color: rgb(28, 198, 204);
+}
+.button{
+    color: rgb(253, 253, 253);
+    text-align: center;
+    background-color: #24a3bd;
+    width: 138px;
+    height: 36px;
+    border-radius: 20px;
+    border-width: 0px;
+}
+.Favouriteplacescontainer{
+    background-size: cover;
+    background-image: url("https://img.freepik.com/free-photo/beautiful-natur…pe-with-black-sandy-beach-ocean_23-2151380422.jpg");
+    height: 120vh;
+    background-size: cover;
+    padding: 24px;
+}
+.favourite-places-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+  }
+.favourite-place-card-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 12px;
+    height: 150px;
+    margin-bottom: 12px;
+    width: 50vw;
+  }
+.favourite-place-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    padding: 8px;
+  }
+.favourite-place-card-description {
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 18px;
+    padding: 9px;
+  }
+  .favourite-place-card-image {
+    width: 120px;
+    height: 120px;
+    padding: 1px;
+  }
+  .favourite-place-card-text-container {
+    margin-right: 14px;
+  }
